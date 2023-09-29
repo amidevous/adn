@@ -4,7 +4,7 @@
 #EXT-X-MEDIA-sequence:0
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:11.520000,
-https://streaming12.animedigitalnetwork.fr/1695993408466-4045098-35ba6e6a43ae1966d8bde33d087a2c8c/video0_480p/sequence_0.ts
+https://raw.githubusercontent.com/amidevous/adn/master/Avatar.Le.Dernier.Maitre.De.L.Air/s1/Avatar.Le.Dernier.Maitre.De.L.Air.S01E01.Le.Garcon.bloque.dans.l.iceberg/sequence_0.ts
 #EXTINF:11.520000,
 https://streaming12.animedigitalnetwork.fr/1695993408466-4045098-35ba6e6a43ae1966d8bde33d087a2c8c/video0_480p/sequence_1.ts
 #EXTINF:7.680000,
